@@ -1,0 +1,3 @@
+ABOUT OUR ANDROID APP "SARTHI" :-
+
+This is an android app that will be used to store the driver details.Our project involves creating driver history activity that will contain the driver's name, driver id and other details about the driver.
